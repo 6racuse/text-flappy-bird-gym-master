@@ -1,4 +1,10 @@
+
+To see my implementation, open the ipynb file.
+
+
+
 # Text Flappy Bird for OpenAI Gym
+
 
 This repository contains the implementation of two OpenAI Gym learning environments of a simple unit-element player version of the Flappy Bird. The code base is heavily borrows from the [flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym) repository.
 
